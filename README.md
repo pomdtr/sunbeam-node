@@ -1,5 +1,10 @@
 # Sunbeam Node Sample
 
+## Requirements
+
+- [Sunbeam](https://sunbeam.sh)
+- [Node.js](https://nodejs.org)
+
 ## Installation
 
 ```bash
