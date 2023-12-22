@@ -1,7 +1,7 @@
 {
-    "name": "sunbeam-libraries",
+    "name": "sunbeam-node",
     "bin": {
-        "sunbeam-libraries": "./extension.js"
+        "sunbeam-node": "./extension.js"
     },
     "dependencies": {
         "axios": "^1.6.2"
