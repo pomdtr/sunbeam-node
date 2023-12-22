@@ -1,3 +1,3 @@
 #!/bin/sh
 
-exec npx github:pomdtr/sunbeam-node "$@"
+exec bunx --bun github:pomdtr/sunbeam-node "$@"

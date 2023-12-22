@@ -3,7 +3,7 @@
 ## Requirements
 
 - [Sunbeam](https://sunbeam.sh)
-- [Node.js](https://nodejs.org)
+- [Bun](https://bun.sh)
 
 ## Installation
 
