@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-const axios = require('axios');
-const process = require('process');
+import axios from 'axios';
+import process from 'node:process';
 
 const manifest = {
     "title": "Sunbeam",

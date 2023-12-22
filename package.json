@@ -1,5 +1,6 @@
 {
     "name": "sunbeam-node",
+    "type": "module",
     "bin": {
         "sunbeam-node": "./extension.js"
     },
